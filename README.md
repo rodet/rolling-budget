@@ -1,4 +1,4 @@
-# Rolling Budget
+# Personal Rolling Budget
 
 This is a command-line based tool that can compute how much you spend during the
 last four weeks on a rolling basis, instead of just taking the current month.
@@ -12,3 +12,8 @@ well. An example to the CSV data will be delivered as a template.
 
 The code is still being finalized for release. Keep watching and thanks for
 your interest.
+
+## Known Limitations
+
+- It operates on a four week basis, not on a full month.
+- It only works with EURO currency so far.
