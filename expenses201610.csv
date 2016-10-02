@@ -1,0 +1,4 @@
+# Example expenses - the first line of the file is always ignored.
+2016-10-01,My Supermarket,Foods / Basics,Groceries,20 €
+2016-10-01,Bella Italia,Dining Out,Restaurant with friends,50 €
+2016-10-01,Taxi,Public Transports,,20 €
